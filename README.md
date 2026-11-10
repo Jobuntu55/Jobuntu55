@@ -1,16 +1,25 @@
-## Hi there 👋
+Salut 👋, moi c'est Jonathan
+🎓 En démarche VAE BTS CIEL (Informatique et Réseaux)
 
-<!--
-**Jobuntu55/Jobuntu55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Expérience :
 
-Here are some ideas to get you started:
+Support informatique
+Réseaux (VLAN, DHCP, DNS)
+Dépannage matériel et logiciel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies :
+
+Active Directory
+Windows
+PowerShell
+VMware / VirtualBox
+
+📚 En apprentissage :
+
+Linux
+Automatisation
+Administration Windows/Linux
+
+📫 Contact :
+
+LinkedIn : Jonathan BIEBER
