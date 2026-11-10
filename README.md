@@ -1,25 +1,25 @@
-Salut 👋, moi c'est Jonathan
-🎓 En démarche VAE BTS CIEL (Informatique et Réseaux)
+👋 Bonjour, moi c'est Jonathan
 
-💻 Expérience :
+🎓 En démarche VAE BTS CIEL - Informatique et Réseaux
+
+💻 Expérience
 
 Support informatique
+Administration systèmes Windows et Linux
 Réseaux (VLAN, DHCP, DNS)
 Dépannage matériel et logiciel
 
-🛠️ Technologies :
+🛠 Technologies
 
 Active Directory
-Windows
+Windows Server
 PowerShell
-VMware / VirtualBox
+VMware
 
-📚 En apprentissage :
+📚 En apprentissage
 
+Git & GitHub :)
 Linux
-Automatisation
-Administration Windows/Linux
 
-📫 Contact :
-
+📫 Contact
 LinkedIn : Jonathan BIEBER
